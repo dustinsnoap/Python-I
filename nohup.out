@@ -1,0 +1,6 @@
+
+(code:6009): Gtk-WARNING **: 01:19:02.897: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(code:6009): Gtk-WARNING **: 01:19:02.897: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(code:6009): Gtk-WARNING **: 01:19:02.897: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
